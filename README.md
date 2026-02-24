@@ -22,23 +22,27 @@ Bioinformatics specialist based in İzmir, Turkey. I build and automate genomics
   <img src="https://skillicons.dev/icons?i=python,rust,r,bash&theme=dark" />
 </p>
 
+## ML & Data Science
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-A435F0?style=for-the-badge&logo=jax&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ## Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,anaconda&theme=dark" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,pytorch,latex,jupyter,md&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=latex,md&theme=dark" />
 </p>
-
-## Featured Projects
-
-<a href="https://github.com/erdikilic/amplirust">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erdikilic&repo=amplirust&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/erdikilic/gatk-germline-workflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erdikilic&repo=gatk-germline-workflow&theme=github_dark&hide_border=true" />
-</a>
 
 ## Connect
 
