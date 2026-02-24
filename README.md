@@ -26,22 +26,37 @@ Bioinformatics specialist based in İzmir, Turkey. I build and automate genomics
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+  <img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo_250px.png" width="48" height="48" alt="JAX" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark-medium.png" width="48" height="48" alt="Polars" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="48" height="48" alt="XGBoost" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
-  <img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo_250px.png" width="48" height="48" alt="JAX" />
-  <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="48" height="48" alt="SciPy" />
 </p>
 
-## Tools & Platforms
+## Containers & Environments
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,anaconda&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="48" height="48" alt="Podman" />
+  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" />
 </p>
+
+![Apptainer](https://img.shields.io/badge/Apptainer-1D315F?style=for-the-badge&logoColor=white)
+
+## Dev & CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vscode,linux&theme=dark" />
+</p>
+
+## Writing & Docs
+
 <p>
   <img src="https://skillicons.dev/icons?i=latex,md&theme=dark" />
 </p>
