@@ -44,10 +44,7 @@ Bioinformatics specialist based in İzmir, Turkey. I build and automate genomics
 <p>
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="48" height="48" alt="Podman" />
-  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" />
-  <img src="https://raw.githubusercontent.com/astral-sh/uv/main/docs/assets/logo-letter.svg" width="48" height="48" alt="uv" />
-  <img src="https://raw.githubusercontent.com/prefix-dev/pixi/main/docs/assets/pixi-logo.svg" width="48" height="48" alt="Pixi" />
-  <img src="https://skillicons.dev/icons?i=cargo&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=anaconda,cargo&theme=dark" />
 </p>
 
 ## Dev & CI/CD
