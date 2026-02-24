@@ -44,10 +44,9 @@ Bioinformatics specialist based in İzmir, Turkey. I build and automate genomics
 <p>
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="48" height="48" alt="Podman" />
+  <img src="https://raw.githubusercontent.com/apptainer/apptainer.org/master/public/apptainer.svg" width="48" height="48" alt="Apptainer" />
   <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" />
 </p>
-
-![Apptainer](https://img.shields.io/badge/Apptainer-1D315F?style=for-the-badge&logoColor=white)
 
 ## Dev & CI/CD
 
@@ -70,6 +69,5 @@ Bioinformatics specialist based in İzmir, Turkey. I build and automate genomics
 <br><br>
 
 <p>
-  <img src="space-shooter.gif" alt="Space Shooter - contribution graph arcade game" />
+  <img src="space-shooter.gif" alt="Space Shooter" />
 </p>
-<sub>Contribution graph turned into an arcade game — generated daily via GitHub Actions.</sub>
