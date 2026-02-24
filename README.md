@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&background=0D111700&width=600&lines=Bioinformatics+Specialist;Workflow+Engineer+%7C+Nextflow+%C2%B7+Snakemake+%C2%B7+WDL+%C2%B7+CWL;Python+%26+Rust+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&background=0D111700&width=600&lines=Bioinformatics+Specialist;Data+Scientist+%7C+PyTorch+%C2%B7+JAX;Workflow+Engineer+%7C+Nextflow+%C2%B7+Snakemake;Python+%26+Rust+Developer)](https://git.io/typing-svg)
 
 ## About Me
 
