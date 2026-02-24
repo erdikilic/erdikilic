@@ -16,16 +16,19 @@ Bioinformatics specialist based in İzmir, Turkey. I build and automate genomics
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## Languages & Tools
+## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,rust,r&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,rust,r,bash&theme=dark" />
+</p>
+
+## Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,anaconda&theme=dark" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode,anaconda&theme=dark" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,latex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,pytorch,latex,jupyter,md&theme=dark" />
 </p>
 
 ## Featured Projects
@@ -37,15 +40,15 @@ Bioinformatics specialist based in İzmir, Turkey. I build and automate genomics
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=erdikilic&repo=gatk-germline-workflow&theme=github_dark&hide_border=true" />
 </a>
 
-## Space Shooter
-
-<p>
-  <img src="space-shooter.gif" alt="Space Shooter - contribution graph arcade game" />
-</p>
-<sub>Contribution graph turned into an arcade game — generated daily via GitHub Actions.</sub>
-
 ## Connect
 
 <a href="https://www.linkedin.com/in/erdi-kilic">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
+
+<br><br>
+
+<p>
+  <img src="space-shooter.gif" alt="Space Shooter - contribution graph arcade game" />
+</p>
+<sub>Contribution graph turned into an arcade game — generated daily via GitHub Actions.</sub>
